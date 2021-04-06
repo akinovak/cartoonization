@@ -5,3 +5,5 @@ Research resources:
   * VGG explaination through example
 * [github repo](https://github.com/anishathalye/neural-style)
   * image transformation example
+* [cartoonization](https://towardsai.net/p/deep-learning/an-insiders-guide-to-cartoonization-using-machine-learning)
+  * cartoonization
