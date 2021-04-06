@@ -7,3 +7,5 @@ Research resources:
   * image transformation example
 * [cartoonization](https://towardsai.net/p/deep-learning/an-insiders-guide-to-cartoonization-using-machine-learning)
   * cartoonization
+* [tf-neural-style](https://www.tensorflow.org/tutorials/generative/style_transfer)
+  * tf implementation of neural style 
