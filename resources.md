@@ -10,3 +10,5 @@ Research resources:
   * [helpful link](https://www.youtube.com/watch?v=eTMGoXgq6uM)
 * [tf-neural-style](https://www.tensorflow.org/tutorials/generative/style_transfer)
   * tf implementation of neural style 
+* [neural style transfer] (https://towardsdatascience.com/art-with-ai-turning-photographs-into-artwork-with-neural-style-transfer-8144ece44bed)
+  * helpful explanation of combining two styles into one picture
