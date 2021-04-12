@@ -12,3 +12,4 @@ Research resources:
   * tf implementation of neural style 
 * [neural style transfer] (https://towardsdatascience.com/art-with-ai-turning-photographs-into-artwork-with-neural-style-transfer-8144ece44bed)
   * helpful explanation of combining two styles into one picture
+  * [another helpful tutorial] (https://anderfernandez.com/en/blog/how-to-code-neural-style-transfer-in-python/)
