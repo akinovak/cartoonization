@@ -14,3 +14,4 @@ Research resources:
   * helpful explanation of combining two styles into one picture
   * [another helpful tutorial] (https://anderfernandez.com/en/blog/how-to-code-neural-style-transfer-in-python/)
   * [understanding convolution layers] (https://anderfernandez.com/en/blog/how-to-create-convolutional-neural-network-keras/)
+* [idea for optimizers](https://www.kdnuggets.com/2017/07/picking-optimizer-style-transfer.html)
