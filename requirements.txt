@@ -1,0 +1,3 @@
+tensorflow - version 2.6.0
+keras - version 2.6.0
+vgg19 model
