@@ -50,5 +50,5 @@ Choosing this parameters we generate very different and interesting images
  
  
   #### Cartoon images
-Papers and tutorials used to create this project are listed in resources.md
+Papers and tutorials used to create this project are listed in resources.md  
 Requirements are listed in requirements.txt
